@@ -51,11 +51,6 @@ A comprehensive network traffic dataset from the Canadian Institute for Cybersec
 - Design **hybrid ML-DL systems**.
 - Introduce **adversarial training** and **online learning** for adaptability.
 
-## References
-- CIC-IDS-2017 Dataset: [https://www.unb.ca/cic/datasets/ids-2017.html](https://www.unb.ca/cic/datasets/ids-2017.html)
-- CatBoost: [https://catboost.ai](https://catboost.ai)
-- Alom et al., "Intrusion detection using deep learning with LSTM", Journal of Big Data, 2021.
-- Breiman, “Random Forests”, Machine Learning, 2001.
 
 
 
